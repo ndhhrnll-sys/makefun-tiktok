@@ -16,7 +16,7 @@ It opens on that hook, shows what the agent does around the clock (builds games,
 
 Format: vertical 9:16, 1080x1920, about 22 seconds, silent by design so it can be paired with any trending TikTok sound.
 
-**Watch the video:** https://www.tiktok.com/@paijokalcer7/video/7711008364964171028
+**Watch the video:** https://www.tiktok.com/@paijokalcer7/video/7711063183221394709
 
 The video URL is also recorded in `VIDEO.json` in this repository, as the competition requires.
 
@@ -24,4 +24,4 @@ The video URL is also recorded in `VIDEO.json` in this repository, as the compet
 
 There is nothing to install or build — the entry is the video itself. Open the TikTok URL above to watch it:
 
-https://www.tiktok.com/@paijokalcer7/video/7711008364964171028
+https://www.tiktok.com/@paijokalcer7/video/7711063183221394709
